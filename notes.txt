@@ -1,0 +1,5 @@
+exTHmUI 23/05/2026 - Signed - Vanilla
+- Prebuild kernel comes with NTSync support, addon.d & selinux context hiding, changing kernel will break them.
+- Leica Camera Prebuilt
+- NikGapps Basic is recommended
+- RKSU is included on prebuild kernel, refer to support group for the coresponding manager app

@@ -1,0 +1,7 @@
+exTHmUI 23/05/2026 - Signed - Vanilla
+- Initial Bringup
+- exTHmUI android-13.0.0_r75 based on Lineage-CAF
+- Linux Kernel 4.19.404R-exTHmUIfied
+- Native NTSync support for Wine-based Emulator
+- Patched frameworks_base, system_core, system_security to pass root & custom rom detections
+- Sort of improvements to madmax DT base
