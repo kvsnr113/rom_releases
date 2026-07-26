@@ -1,5 +1,8 @@
-exTHmUI 23/05/2026 - Signed - Vanilla
-- Prebuild kernel comes with NTSync support, addon.d & selinux context hiding, changing kernel will break them.
-- Leica Camera Prebuilt
-- NikGapps Basic is recommended
-- RKSU is included on prebuild kernel, refer to support group for the coresponding manager app
+ABOUT PLAY INTEGRITY !
+- ROM integrity is dead, however most of detections, and rom traces are clean with signed key.
+Simply just fix keybox yourself and all is good to go.
+
+Other things : 
+- Leica Camera shipped as prebuilt
+- ROM is shipped without GMS. NikGapps Basic is recommended
+- ALWAYS follow flashing instructions, dirty flash over different version is completely fine.
