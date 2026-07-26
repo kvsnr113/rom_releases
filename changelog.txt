@@ -1,3 +1,13 @@
+exTHmUI 27/07/2026 - Signed - Vanilla - MAJOR UPDATE !
+- Fixed major issues with kernel memory leaks
+- Switch to QTI audio hal stack
+- Fixed wired and bluetooth earphone connections
+- Update and synced latest E404 kernel source
+- Added full support for Droidspaces
+- Improved kernel performance and efficiency
+- Update blobs from V14.0.6.0.TLMMIXM
+- Improved overall rom stability and sanity
+
 exTHmUI 23/05/2026 - Signed - Vanilla
 - Initial Bringup
 - exTHmUI android-13.0.0_r75 based on Lineage-CAF
